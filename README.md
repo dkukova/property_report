@@ -16,4 +16,4 @@ and statistically analyse the impact of flat price changes on different regions.
   
 ## Coursework Information
 
-This analysis is part of the "Statistics for AI and Data Science" module, specifically Coursework 3.
+This analysis is part of the ECS7024 "Statistics for AI and Data Science" module, specifically Coursework 3.
